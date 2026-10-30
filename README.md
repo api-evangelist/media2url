@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Media2URL Direct Media Delivery API is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://media2url.com
+Media2URL provides a direct media delivery platform that lets users upload images, videos, PDFs, audio, and other files and instantly obtain shareable direct URLs. The service includes tools for bulk uploads, custom domains, media library management, team workspaces, and integrations with platforms like Google Workspace, Zapier, Make, n8n, and Notion. It offers an API (base URL https://api.media2url.com/v1) secured with Bearer token authentication, supporting operations for usage stats, presigned upload URLs, finalizing uploads, and asset management.
+
+**Areas:** Media · File Hosting · Direct Links · Upload
+
+## Media2URL Direct Media Delivery API on APIs.io
+
+Everything profiled for Media2URL Direct Media Delivery API is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/media2url/](https://apis.io/providers/media2url/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Media2URL API](https://apis.io/apis/media2url/media2url-api/) — Media2URL Direct Media Delivery API
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Media2Url Webhooks](https://apis.io/asyncapis/media2url/media2url-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Media2Url Agentic Access](https://apis.io/agentic-access/media2url/media2url-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Media2URL Direct Media Delivery API API Rules](https://apis.io/rules/media2url/media2url-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Media2Url Authentication](https://apis.io/security/media2url/media2url-authentication/)
+- [Media2Url Domain Security](https://apis.io/security/media2url/media2url-domain-security/)
+- [Media2Url Vulnerability Disclosure](https://apis.io/security/media2url/media2url-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Media2Url Plans Pricing](https://apis.io/plans/media2url/media2url-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Media2Url Rate Limits](https://apis.io/rate-limits/media2url/media2url-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://media2url.com)
+- [Documentation](https://media2url.com/docs)
+- [Getting started](https://media2url.com/signup)
+- [API reference](https://media2url.com/openapi.json)
+- [Pricing](https://media2url.com/pricing)
+- [Blog](https://media2url.com/blog)
+- [Security](https://media2url.com/security)
+- [Terms of service](https://media2url.com/terms)
+- [Privacy policy](https://media2url.com/privacy)
+- [GitHub](https://github.com/TheSourabhaSahu)
+
+## API Evangelist rating
+
+**Kin Score 54.5** — strong · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 39.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 55.3 |
+| Developer ergonomics | 59.5 |
+| Access clarity | 76.3 |
+
+**Agent readiness 32.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/media2url/](https://apis.io/providers/media2url/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Media2URL Direct Media Delivery API: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/media2url/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
